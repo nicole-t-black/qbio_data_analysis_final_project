@@ -26,9 +26,18 @@ QBIO Public Data Analysis Final Project (Spring 2021): Correlation Between Diffe
   
 # Output
 
-  Types: Raw Data (rd) and Figures (f)
+  Types: 
   
-  Organization: final_project_data (contains csv raw data files), final_project_figures (contains jpg figure files), and GDCdata (contains all data from GDC query)
+  1) Raw Data (rd)
+  2) Figures (f)
+  
+  Organization:
+  
+  Output files will be in one of three folders.
+  
+  1) final_project_data (contains csv raw data files)
+  2) final_project_figures (contains jpg figure files)
+  3) GDCdata (contains all data from GDC query)
   
   1) CPTAC.py
   
